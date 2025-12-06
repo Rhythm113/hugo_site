@@ -1,0 +1,67 @@
+baseURL: https://rhythm113.dev/
+languageCode: en-us
+title: Mahbub Anam
+enableRobotsTXT: true
+pygmentsUseClasses: true
+theme: PaperMod
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+menu:
+  main:
+  - name: Blog
+    url: posts/
+    weight: 1
+  - name: About
+    url: about/
+    weight: 2
+
+minify: 
+ disableXML: true
+
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
+
+params:
+  author: Mahbub Anam
+  comments: true
+  defaultTheme: auto
+  env: production
+  social: true
+
+
+  homeInfoParams:
+    Title: Hello 👋
+    Content: I am a student passionate about secure systems and development. I am learning low-level and web security testing, and I am currently employed at my university's IT department where I work on security monitoring, testing, platform enhancement, and development.
+
+  socialIcons: # optional
+    - name: "Facebook"
+      url: "https://facebook.com/Rhythm113"
+    - name: "Github"
+      url: "https://github.com/rhythm113"
+    - name: "Linkedin"
+      url: "https://www.linkedin.com/in/rhythm113/"
+    - name: email
+      url: "mailto:mahbub.anam@northsouth.edu"
+
+
+ShowCodeCopyButtons: true
+ShowPostNavLinks: true
+ShowReadingTime: true
+ShowShareButtons: true
+ShowToc: true
