@@ -43,11 +43,11 @@ params:
   defaultTheme: auto
   env: production
   social: true
-
+  
 
   homeInfoParams:
     Title: Hello 👋
-    Content: I am a student passionate about secure systems and development. I am learning low-level and web security testing, and I am currently employed at my university's IT department where I work on security monitoring, testing, platform enhancement, and development.
+    Content: I am an undergrad student passionate about secure systems and development. I am learning low-level and web security testing, and I am currently employed at my university's IT department where I work on security monitoring, testing, platform enhancement, and development.
 
   socialIcons: # optional
     - name: "Facebook"
@@ -58,7 +58,8 @@ params:
       url: "https://www.linkedin.com/in/rhythm113/"
     - name: email
       url: "mailto:mahbub.anam@northsouth.edu"
-
+    - name: "Telegram"
+      url: "https://t.me/Rhythm113"
 
 ShowCodeCopyButtons: true
 ShowPostNavLinks: true
