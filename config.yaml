@@ -21,12 +21,15 @@ markup:
 
 menu:
   main:
+  - name: Home
+    url: /
+    weight: 1
   - name: Blog
     url: posts/
-    weight: 1
+    weight: 2
   - name: About
     url: about/
-    weight: 2
+    weight: 3
 
 minify: 
  disableXML: true
@@ -47,7 +50,7 @@ params:
 
   homeInfoParams:
     Title: Hello 👋
-    Content: I am an undergrad student passionate about secure systems and development. I am learning low-level and web security testing, and I am currently employed at my university's IT department where I work on security monitoring, testing, platform enhancement, and development.
+    Content: I am an undergrad student passionate about secure systems and development. I am learning low-level and web security testing, and I am currently employed at my university's IT department. Want to know more about me? visit my **About** section. Thanks for a visit :')
 
   socialIcons: # optional
     - name: "Facebook"
