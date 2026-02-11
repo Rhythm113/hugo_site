@@ -27,17 +27,17 @@ But then I noticed the domain.
 
 Our real university domain was:
 
-
+```
 northsouth.edu
-
+```
 
 The email came from:
 
-
+```
 northsouth.info
+```
 
-
-That single character difference changed everything.
+That small  difference changed everything.
 
 Immediately, alarm bells went off.
 
