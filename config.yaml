@@ -54,7 +54,7 @@ params:
 
   homeInfoParams:
     Title: Hello 👋
-    Content: I am an undergrad student passionate about secure systems and development. I am learning low-level and web security testing, and I am currently employed at my university's IT department. Want to know more about me? visit my [About](/about/) section. Thanks for a visit :')
+    Content: I am an undergrad student passionate about secure systems and development. I am learning low-level and web security testing, and I am currently employed at my university's IT department. Want to know more about me? visit my [About](/about/) section. Anyways, thanks for a visit :')
 
   socialIcons: # optional
     - name: "Facebook"
