@@ -1,5 +1,5 @@
 baseURL: https://rhythm113.dev/
-languageCode: en-us
+locale: en-us
 title: Mahbub Anam
 enableRobotsTXT: true
 pygmentsUseClasses: true
@@ -7,7 +7,7 @@ theme: PaperMod
 
 languages:
   en:
-    languageName: "English"
+    label: "English"
     weight: 1
     taxonomies:
       category: categories
