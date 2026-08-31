@@ -30,9 +30,6 @@ menu:
   - name: About
     url: about/
     weight: 3
-  - name: My Resume
-    url: /my_resume.pdf
-    weight: 4
 
 minify:
  disableXML: true
